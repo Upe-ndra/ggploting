@@ -1,8 +1,5 @@
-#This is my first try to use ggplot2
-
 library(wesanderson)
 library(ggplot2)
-ggplot(Complete.Busco)
 library(tidyverse)
 library(ggthemes)
 library(reshape2) #change the data format from long to wide and vice versa
